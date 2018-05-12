@@ -1,6 +1,9 @@
 _repo: '----_7458'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Yan Shi Jia Xun — Complete
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yan, Zhitui
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2476
     wikipedia: http://en.wikipedia.org/wiki/Yan_Zhitui
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7458#----
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
